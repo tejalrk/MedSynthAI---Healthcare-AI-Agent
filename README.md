@@ -1,1 +1,0 @@
-# MedSynthAI---Healthcare-AI-Agent
